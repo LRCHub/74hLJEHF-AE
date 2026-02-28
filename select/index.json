@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Settlement",
+  "base_artist": "藍月なくる",
+  "createdAt": "2026-02-28T17:02:30.291661Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jason and the Argonauts (English Settlement version)",
+      "artist": "XTC",
+      "has_synced": false,
+      "path": "select/01_Jason_and_the_Argonauts_(English_Settlement_version)_XTC.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Settlement",
+      "artist": "Issues",
+      "has_synced": false,
+      "path": "select/02_The_Settlement_Issues.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Slept with Wes Eisold and All I Got Was an out of Court Settlement",
+      "artist": "For Your Health",
+      "has_synced": false,
+      "path": "select/03_I_Slept_with_Wes_Eisold_and_All_I_Got_Was_an_out_of_Court_Settlement_For_Your_Health.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Folk Song from the Settlement on the Edge of the Earth",
+      "artist": "Sewerperson feat. Eric Godlow",
+      "has_synced": true,
+      "path": "select/04_Folk_Song_from_the_Settlement_on_the_Edge_of_the_Earth_Sewerperson_feat._Eric_Godlow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Folk Song from the Settlement on the Edge of the Earth",
+      "artist": "Sewerperson",
+      "has_synced": false,
+      "path": "select/05_Folk_Song_from_the_Settlement_on_the_Edge_of_the_Earth_Sewerperson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fly On The Wall - English Settlement Version",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/06_Fly_On_The_Wall_-_English_Settlement_Version_XTC.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fly On The Wall [English Settlement version]",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/07_Fly_On_The_Wall_[English_Settlement_version]_XTC.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fly on the Wall (English Settlement version)",
+      "artist": "XTC",
+      "has_synced": false,
+      "path": "select/08_Fly_on_the_Wall_(English_Settlement_version)_XTC.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Settlement",
+      "artist": "藍月なくる",
+      "has_synced": false,
+      "path": "select/pl_01_Settlement_藍月なくる.txt"
+    }
+  ]
+}
